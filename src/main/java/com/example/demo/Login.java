@@ -4,4 +4,5 @@ public class Login {
     private String username;
     private String password;
     private String otp;
+    private String name;
 }
